@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8yZNult3vKRjVLjBitBvFLiJSJLvRvtJmdC2SmzzPoFyPT7aP5zaxNCnFktq/Cjt1wb5UglnzxcAowlPrGBG5A==",
+  "dgSpecHash": "2FYS6qybKEhGkZYEmZCKJyjkum6OPqlTHmGwMNO6wh97VS0V2vv1yzEhEo7i7ShnnmJnxRn4Sq9JqDdGOyrzZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\notes_backend\\notes_backend\\Notes.Application\\Notes.Application.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.4\\microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.4\\microsoft.entityframeworkcore.analyzers.6.0.4.nupkg.sha512",

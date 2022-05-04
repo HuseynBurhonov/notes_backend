@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\notes_backend\\notes_backend\\Notes.WebApi\\Notes.WebApi.csproj": {}
+    "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.WebApi\\Notes.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\notes_backend\\notes_backend\\Notes.WebApi\\Notes.WebApi.csproj": {
+    "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.WebApi\\Notes.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\notes_backend\\notes_backend\\Notes.WebApi\\Notes.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.WebApi\\Notes.WebApi.csproj",
         "projectName": "Notes.WebApi",
-        "projectPath": "C:\\Users\\admin\\Desktop\\notes_backend\\notes_backend\\Notes.WebApi\\Notes.WebApi.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.WebApi\\Notes.WebApi.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\notes_backend\\notes_backend\\Notes.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

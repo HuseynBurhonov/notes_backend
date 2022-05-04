@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\notes_backend\\notes_backend\\Notes.Domain\\Notes.Domain.csproj": {}
+    "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.Domain\\Notes.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\notes_backend\\notes_backend\\Notes.Domain\\Notes.Domain.csproj": {
+    "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.Domain\\Notes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\notes_backend\\notes_backend\\Notes.Domain\\Notes.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.Domain\\Notes.Domain.csproj",
         "projectName": "Notes.Domain",
-        "projectPath": "C:\\Users\\admin\\Desktop\\notes_backend\\notes_backend\\Notes.Domain\\Notes.Domain.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.Domain\\Notes.Domain.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\notes_backend\\notes_backend\\Notes.Domain\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

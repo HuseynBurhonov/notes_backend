@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\notes_backend\Notes_backend\Notes.Domain\bin\Debug\net6.0\Notes.Domain.deps.json
+C:\Users\admin\Desktop\notes_backend\Notes_backend\Notes.Domain\bin\Debug\net6.0\Notes.Domain.dll
+C:\Users\admin\Desktop\notes_backend\Notes_backend\Notes.Domain\bin\Debug\net6.0\Notes.Domain.pdb
+C:\Users\admin\Desktop\notes_backend\Notes_backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\notes_backend\Notes_backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\notes_backend\Notes_backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\notes_backend\Notes_backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\notes_backend\Notes_backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\notes_backend\Notes_backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.dll
+C:\Users\admin\Desktop\notes_backend\Notes_backend\Notes.Domain\obj\Debug\net6.0\refint\Notes.Domain.dll
+C:\Users\admin\Desktop\notes_backend\Notes_backend\Notes.Domain\obj\Debug\net6.0\Notes.Domain.pdb
+C:\Users\admin\Desktop\notes_backend\Notes_backend\Notes.Domain\obj\Debug\net6.0\ref\Notes.Domain.dll

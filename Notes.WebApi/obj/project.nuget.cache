@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/lwAUV6w8MCz3747e2CP10012aWz5opiGFtCl7PGqPBzHNto2BKMcXeyNToSuPWWIV0cJ8y0SrSYxleRIQ9J/g==",
+  "dgSpecHash": "oMvNJGb8qZ2d97Sx7qp9wNn14HmFI40FlcEPMm+dw1Greh8v8jtp5h7SbERrjSCxnLR6eoXdfnrf345r57YWIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\notes_backend\\notes_backend\\Notes.WebApi\\Notes.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.WebApi\\Notes.WebApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
