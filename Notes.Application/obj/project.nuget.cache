@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2FYS6qybKEhGkZYEmZCKJyjkum6OPqlTHmGwMNO6wh97VS0V2vv1yzEhEo7i7ShnnmJnxRn4Sq9JqDdGOyrzZw==",
+  "dgSpecHash": "zm9yD7ozahP68Lpnoe3BuEH040XpfP+bajBjqNkcgUcxhBfwSltLEHBZTgo0WFWQeW2+XCo248yngIELIe/+Mw==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.4\\microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",

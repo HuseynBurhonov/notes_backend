@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Xqj2HVSIFW0WCZ0el/b624kRKTmVMhkcXDpe27ku7w6ub0b3+uC4t3hXmpQaW2OljEi4Ar391soqolRDFMaiFw==",
+  "dgSpecHash": "VUcHFROE+fFl0400l8zZEhOBNnYyO1sF6Uw9Kzmx8oAKvhpqxW/h7nJNmbDFnIHYMxKRxOUmEocmLLDO2kwx0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\Desktop\\notes_backend\\Notes_backend\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.4\\microsoft.data.sqlite.core.6.0.4.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.4\\microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",
